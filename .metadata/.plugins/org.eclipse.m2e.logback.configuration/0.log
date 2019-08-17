@@ -1,0 +1,54 @@
+2019-08-16 21:11:07,814 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-08-16 21:13:49,660 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIGatewayProxyServiceZuul/src/main/java
+2019-08-16 21:13:49,662 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIGatewayProxyServiceZuul/src/main/resources
+2019-08-16 21:13:49,663 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /APIGatewayProxyServiceZuul/src/main/resources
+2019-08-16 21:13:49,664 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /APIGatewayProxyServiceZuul/src/test/java
+2019-08-16 21:13:49,993 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 38 sec
+2019-08-16 21:13:50,966 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios2.clase3.accountService:AccountService:0.0.1-SNAPSHOT @ C:\Users\break\Documents\SpringBoot\Clase3\Ejercicio1\AccountService\pom.xml.
+2019-08-16 21:13:56,397 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AccountService/src/main/java
+2019-08-16 21:13:56,397 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AccountService/src/main/resources
+2019-08-16 21:13:56,397 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AccountService/src/main/resources
+2019-08-16 21:13:56,399 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AccountService/src/test/java
+2019-08-16 21:13:56,933 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2019-08-16 21:13:57,799 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios2.clase3.customerService:CustomerService:0.0.1-SNAPSHOT @ C:\Users\break\Documents\SpringBoot\Clase3\Ejercicio1\CustomerService\pom.xml.
+2019-08-16 21:13:59,821 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerService/src/main/java
+2019-08-16 21:13:59,822 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerService/src/main/resources
+2019-08-16 21:13:59,823 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerService/src/main/resources
+2019-08-16 21:13:59,825 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerService/src/test/java
+2019-08-16 21:14:00,280 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2019-08-16 21:14:02,694 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios2.clase1:eurekaServerService:0.0.1-SNAPSHOT @ C:\Users\break\Documents\SpringBoot\Clase3\Ejercicio1\EurekaMicro2Clase1\pom.xml.
+2019-08-16 21:14:09,715 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaMicro2Clase1/src/main/java
+2019-08-16 21:14:09,716 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaMicro2Clase1/src/main/resources
+2019-08-16 21:14:09,716 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EurekaMicro2Clase1/src/main/resources
+2019-08-16 21:14:09,717 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EurekaMicro2Clase1/src/test/java
+2019-08-16 21:14:10,061 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2019-08-16 21:14:14,716 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 21:14:14,723 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 21:14:14,751 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-16 21:14:14,755 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 21:14:14,755 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\break\Documents\SpringBoot\Clase3\Ejercicio1\APIGatewayProxyServiceZuul\src\test\resources
+2019-08-16 21:14:19,657 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 21:14:19,658 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 21:14:19,765 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-16 21:14:19,767 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 21:14:19,767 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\break\Documents\SpringBoot\Clase3\Ejercicio1\AccountService\src\test\resources
+2019-08-16 21:14:21,435 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 21:14:21,487 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 21:14:21,538 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-16 21:14:21,540 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 21:14:21,540 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\break\Documents\SpringBoot\Clase3\Ejercicio1\CustomerService\src\test\resources
+2019-08-16 21:14:22,742 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 21:14:22,742 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 21:14:22,744 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-16 21:14:22,748 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 21:14:22,748 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\break\Documents\SpringBoot\Clase3\Ejercicio1\EurekaMicro2Clase1\src\test\resources
+2019-08-16 21:15:35,164 [Worker-9: Launching Executing test in C__Users_break_Documents_SpringBoot_Clase3_Ejercicio1_EurekaMicro2Clase1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\break\Documents\SpringBoot\Clase3\Ejercicio1\EurekaMicro2Clase1
+2019-08-16 21:15:35,165 [Worker-9: Launching Executing test in C__Users_break_Documents_SpringBoot_Clase3_Ejercicio1_EurekaMicro2Clase1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test -Dstyle.color=always
+2019-08-16 21:25:16,755 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 21:25:16,759 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 21:25:16,760 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-16 21:25:16,763 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 21:25:16,763 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\break\Documents\SpringBoot\Clase3\Ejercicio1\EurekaMicro2Clase1\src\test\resources
+2019-08-16 21:29:04,924 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 21:29:04,951 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-16 21:29:04,952 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

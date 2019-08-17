@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1566007850756_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=APIGatewayProxyServiceZuul/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=APIGatewayProxyServiceZuul/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=AccountService/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=AccountService/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=AccountService/target\/generated-sources\/annotations" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=CustomerService/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=CustomerService/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=CustomerService/target\/generated-sources\/annotations" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=EurekaMicro2Clase1/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=EurekaMicro2Clase1/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=EurekaMicro2Clase1/target\/generated-sources\/annotations" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1566007850868_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=APIGatewayProxyServiceZuul/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=AccountService/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=AccountService/target\/generated-test-sources\/test-annotations" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=CustomerService/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=CustomerService/target\/generated-test-sources\/test-annotations" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=EurekaMicro2Clase1/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1566007859171_2" label="Window Working Set" name="Aggregate for window 1566007859170"/>
+</workingSetManager>
